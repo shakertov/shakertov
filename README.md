@@ -2,7 +2,7 @@
 
 My name is Ruslan. I am a beginner Python developer.
 
-- 🔭 I’m currently working on [a link](https://github.com/shakertov/microblog)
+- 🔭 I’m currently working on [Microblog](https://github.com/shakertov/microblog)
 - 🌱 I’m currently learning Python, Flask, Django, SQLAlchemy
 - ⚡  My hobbies: programming, mathematics, physics, engineering and engineering systems
 
