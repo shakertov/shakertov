@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Ruslan. I am a beginner Python developer.
+
+- 🔭 I’m currently working on [a link](https://github.com/shakertov/microblog)
+- 🌱 I’m currently learning Python, Flask, Django, SQLAlchemy
+- ⚡  My hobbies: programming, mathematics, physics, engineering and engineering systems
+
 <!--
 **shakertov/shakertov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
