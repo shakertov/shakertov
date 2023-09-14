@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Ruslan. I am a beginner Python developer.
+Меня зовут Руслан и я начинающий Python-разработчик.
 
 - 🔭 I’m currently working on [Association](https://github.com/shakertov/association) - a portal of the community of psychologists and esotericists, which was created to help people and [Microblog](https://github.com/shakertov/microblog) to learn some in programming and to develop a skillset.
-- 🌱 I’m currently learning Python, Flask, Django, SQLAlchemy
-- ⚡  My hobbies: programming, mathematics, physics, engineering and engineering systems
-- 📚 I am a student of the radio faculty
+- 🌱 На данный момент изучаю: Python, Flask, Django, SQLAlchemy и SQL.
+- ⚡  Мои увлечения: программирование, математика, физика, техника и инженерные системы.
+- 📚 Я студент радиофакультета заочного отделения.
 
 ### Repositories
 1. [Изучение языков программирования](https://github.com/shakertov/tasks) - в данном репозитории собраны задачи по C++ на целые числа, действительные числа, условный оператор, цикл while. Имеются работы, сделанные в рамках курса "Алгоритмизация и программирование" в университете с составлением функциональных диаграмм. Также есть небольшие наброски по Python, которые писались в процессе изучения статей по работе с файлами и основами парсинга.
