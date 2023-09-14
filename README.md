@@ -8,7 +8,7 @@ My name is Ruslan. I am a beginner Python developer.
 - 📚 I am a student of the radio faculty
 
 ### Repositories
-1. 
+1. [Изучение языков программирования](https://github.com/shakertov/tasks)
 
 <!--
 **shakertov/shakertov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
